@@ -163,7 +163,7 @@ EMR의 경우 서명은 전자서명으로 대체할 수 있다.
 <br>대표적 환자정보
 - Vital(바이탈)
   - 환자의 주요 활력징후(생사관련)
-- I/O (Intake/output) (Input/output 이아님)
+- I/O (Intake/output) (컴퓨터의 I/O:Input/output이아님)
   - 환자가 섭취한 수분과 배설한 수분의 비율
 
 임상관찰항목
